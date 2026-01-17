@@ -1,1 +1,1 @@
-Simple Coffee Machine Simulator
+Simple Coffee Machine Simulator. Project for JetBrains Academy course.
